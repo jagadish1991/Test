@@ -1,0 +1,11 @@
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Jagadish Work\Jagadish\REGISTER_APIP1\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
